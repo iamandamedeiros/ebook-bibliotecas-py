@@ -36,6 +36,11 @@ Leonardo.Ai：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo.Ai
 
+## 📚 Materiais
+- Imagens utilizadas em <a href="https://github.com/iamandamedeiros/ebook-bibliotecas-py/tree/main/assets" title="assets"> assets</a>
+- E-book em <a href="https://github.com/iamandamedeiros/ebook-bibliotecas-py/tree/main/output" title="pdf"> output</a> 
+
+
 ## 👩🏽‍💻 Expert
 
 <p>
