@@ -41,7 +41,7 @@ Leonardo.Ai：
 - E-book em <a href="https://github.com/iamandamedeiros/ebook-bibliotecas-py/tree/main/output" title="pdf"> output</a> 
 
 
-## 👩🏽‍💻 Expert
+## 👩🏽‍💻 Autora
 
 <p>
     <img 
